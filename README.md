@@ -6,9 +6,9 @@ Download The Application: https://expo.dev/accounts/thor233/projects/DocFinderAp
   <img src="https://www.linkpicture.com/q/main_icon_1.png" width="250" >
 </p>
 
-<h1>How to use?</h1>
+<h1>What is DocFinder?</h1>
 
-This application is used for playing piano without learning how to play it. You choose any songs in the list and just press any random key. It will play for you. You can show your piano skills to your family and friends :)
+DocFinder is an application designed to assist users in efficiently discovering doctors based on their specific fields of expertise.
 
 
 <div style="display: flex; flex-direction: row;">
