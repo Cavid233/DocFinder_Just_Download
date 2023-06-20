@@ -21,6 +21,8 @@ DocFinder is an application designed to assist users in efficiently discovering 
 <img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.44.42.png" alt="Simulator Screen Shot" width="250">
 
 <img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-15.12.32.png" alt="Simulator Screen Shot" width="250">
+<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-20-at-20.20.55.png" alt="Simulator Screen Shot" width="250">
+<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-20-at-20.16.43.png" alt="Simulator Screen Shot" width="250">
 
 
 </div>
