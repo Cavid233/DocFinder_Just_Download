@@ -12,17 +12,18 @@ DocFinder is an application designed to assist users in efficiently discovering 
 
 
 <div style="display: flex; flex-direction: row;">
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.42.26.png" alt="Simulator Screen Shot" width="250">
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.42.34.png" alt="Simulator Screen Shot" width="250">  
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.44.30.png" alt="Simulator Screen Shot" width="250">
+  
+<img src="https://github.com/Cavid233/DocFinder_Just_Download/assets/59831153/8ef3d33a-29c9-4364-83c9-fbae52d7dcd5" alt="Simulator Screen Shot" width="250">
+<img src="https://github.com/Cavid233/DocFinder_Just_Download/assets/59831153/85971d72-269e-4d48-81f1-e9fa8d47440a" alt="Simulator Screen Shot" width="250">
+<img src="https://github.com/Cavid233/DocFinder_Just_Download/assets/59831153/494f4acb-0f36-4dc1-9fe3-c5ee00773366" alt="Simulator Screen Shot" width="250">
 
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.44.35.png" alt="Simulator Screen Shot" width="250">
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.44.35.png" alt="Simulator Screen Shot" width="250">
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-14.44.42.png" alt="Simulator Screen Shot" width="250">
-
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-18-at-15.12.32.png" alt="Simulator Screen Shot" width="250">
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-20-at-20.20.55.png" alt="Simulator Screen Shot" width="250">
-<img src="https://www.linkpicture.com/q/Simulator-Screen-Shot-iPhone-14-Pro-Max-2023-06-20-at-20.16.43.png" alt="Simulator Screen Shot" width="250">
+<img src="https://github.com/Cavid233/DocFinder_Just_Download/assets/59831153/8afaa77c-baef-45df-bb50-b6314cb6eb67" alt="Simulator Screen Shot" width="250">
+<img src="https://github.com/Cavid233/DocFinder_Just_Download/assets/59831153/69b6f3fb-8c0c-4b46-82ba-9b39b987dc8c" alt="Simulator Screen Shot" width="250">
+<img src="https://github.com/Cavid233/DocFinder_Just_Download/assets/59831153/00416295-1afa-4296-810a-714ebe0e57f4" alt="Simulator Screen Shot" width="250">
 
 
 </div>
+
+
+
+
